@@ -67,6 +67,28 @@ public class SudokuSolver {
         return false;
     }
 
+    /**
+     * This method checks if there is already a number placed at the location.
+     *
+     * @return
+     */
+    private static boolean isValidPlacement(){
+        return true;
+    }
+
+
+    public static boolean solvePuzzle(){
+        return true;
+    }
+
+    /**
+     * Prints out the 2D array.
+     *
+     * @param board: A 2D array of numbers, representing a 9x9 Sudoku board.
+     */
+    private static void printBoard(int[][] board){
+        System.out.println();
+    }
 
     public static void main(String[] args) {
         int [][] board = {
