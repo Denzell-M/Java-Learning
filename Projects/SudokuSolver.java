@@ -1,3 +1,5 @@
+package JavaLearning.Projects;
+
 public class SudokuSolver {
     private static final int GRID_SIZE = 9;
 
